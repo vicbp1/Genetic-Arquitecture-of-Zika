@@ -5,7 +5,7 @@ Currently is running for just one covariate.
 
 To run the code use the following command line  
 
-Run using: R < ELRrun.R <raw.plink.filename> <chromosome number> <plink bim file> <output.filename> <total number of MCMC> <Burnin> <covar file> --no-save > screen_output
+Run using: "R < ELRrun.R <raw.plink.filename> <chromosome number> <plink bim file> <output.filename> <total number of MCMC> <Burnin> <covar file> --no-save > screen_output"
   
 To run this program you need al least six parameters:  
 -raw plink file       : Raw plink file obtaned with --recode A on plink, include genotype information  
