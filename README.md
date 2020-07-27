@@ -17,4 +17,4 @@ To run this program you need al least six parameters:
 -cov file             : Covariate file (with header and TAB delimited), if included, the script will automatically adjust the regression  
 -IMPORTANT 1          : YOU NEED TO INSTALL THE ELRM PACKAGE!!  
 -IMPORTANT 2          : Currently, this version can adjust just for one covariate !!  
--IMPORTANT 3          : The covariate need to be a discrete variable!!  
+-IMPORTANT 3          : The covariate needs to be a discrete variable!!  
