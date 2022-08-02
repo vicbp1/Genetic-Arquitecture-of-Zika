@@ -7,7 +7,7 @@
 #
 # Author: Victor Borda
 ## 
-## This script will win an exact logistic regression with an output cinluding description of the variant, p-value, OR and OR ci.
+## With this script you can run an Firth logistic regression. As output you will have the description of the variant, p-value, OR and OR ci
 ## !!!! IMPORTANT: MUST HAVE PACKAGE "logistf" INSTALLED !!!!
 ##
 ##  To run Running_LOGISTF_ver2.R
