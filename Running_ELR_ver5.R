@@ -8,7 +8,7 @@
 # Author: Victor Borda
 # Contributions: Meddly Santolalla, Cinthya Cardoso
 ## 
-## This script will win an exact logistic regression with an output including description of the variant, p-value, OR and OR ci.
+## With this script you can run an exact logistic regression. As output you will have the description of the variant, p-value, OR and OR ci.
 ## !!!! IMPORTANT: MUST HAVE PACKAGE "elrm" INSTALLED !!!!
 ## For R versions > 3.5 you have to install "elrm" via devtools using the following line:
 ##
